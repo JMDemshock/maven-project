@@ -1,1 +1,1 @@
-Hello, World! How Are You?
+Hello, World!
