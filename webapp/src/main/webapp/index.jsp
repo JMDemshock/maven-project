@@ -1,1 +1,1 @@
-Hello, New World (3.0)!
+Hello, World!
